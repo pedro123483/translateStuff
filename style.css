@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin: 10%;
+    font-family: 'Rubik', sans-serif;
+}
+
+.form-control{
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    background-color:steelblue;
+    border-color: steelblue;
+    position: relative;
+}
