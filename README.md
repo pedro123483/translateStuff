@@ -1,2 +1,2 @@
 # translateStuff
-Web app to translate stuff, using Microsoft Translator Text API
+Chrome Extension to translate stuff, using HTML, CSS, JavaScript and Microsoft Translator Text API.
